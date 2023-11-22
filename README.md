@@ -1,4 +1,4 @@
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 WhoAmI</h2>
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ramesh kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-  👋  I am a seasoned Full Stack Web Developer based in India, driven by a profound passion for crafting innovative digital solutions. My adeptness at rapid learning has facilitated successful collaborations on diverse client projects. Specializing in the integration of cutting-edge technologies, I excel in bringing ideas to fruition across AI, Web, and mobile applications. I invite you to join me on the journey of creating something truly extraordinary! 💻🚀
+  👋  I am a Full Stack Web Developer based in India, driven by a profound passion for crafting innovative digital solutions. My adeptness at rapid learning has facilitated successful collaborations on diverse client projects. Specializing in the integration of cutting-edge technologies, I excel in bringing ideas to fruition across AI, Web, and mobile applications. I invite you to join me on the journey of creating something truly extraordinary! 💻🚀
   </samp>
   <br> <br>
 </p>

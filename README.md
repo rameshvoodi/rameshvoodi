@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-  👋  I am a Full Stack Web Developer based in India, driven by a profound passion for crafting innovative digital solutions. My adeptness at rapid learning has facilitated successful collaborations on diverse client projects. Specializing in the integration of cutting-edge technologies, I excel in bringing ideas to fruition across AI, Web, and mobile applications. I invite you to join me on the journey of creating something truly extraordinary! 💻🚀
+  👋  I am a Full Stack Web Developer having experience in Building apps and tools over various domains 💻🚀
   </samp>
   <br> <br>
 </p>

@@ -14,12 +14,10 @@
   </samp>
   <br> <br>
 </p>
-
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-## 📫 Reach me:
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy building connections , so feel free to drop a greeting. <b>I would be delighted to get to know you better!<b>😊</em>
+📫 Reach me:
+<div align="center">
+ 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy building connections , so feel free to drop a greeting.😊</em>
 <p >
   <a target="_blank"href="https://www.linkedin.com/in/voodi-r-2b5497217/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/Rameshvoodi02"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
@@ -31,6 +29,7 @@
 
 <a href="https://calendly.com/rameshvoodi24/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
+</div>
 
 ### ⚡  Technologies and Tools 
 

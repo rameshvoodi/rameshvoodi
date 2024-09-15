@@ -17,7 +17,6 @@ const ramesh = {
         GenAI: ["langchain", "Huggingface", "openai"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
-    currentFocus: "Learning pentesting",
 };
 
 ```

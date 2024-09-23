@@ -12,6 +12,7 @@ const ramesh = {
             js: ["React", "Next.js",],
             css: ["Tailwind CSS"]
         },
+        mobile: ["React-native", "expo"]
         databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
         web3: ["solidity", "Hardhat", "web3.js", "etherjs", "Metamask"]
         GenAI: ["langchain", "Huggingface", "openai"]
